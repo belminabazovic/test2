@@ -75,7 +75,7 @@ body {
 
 #listContainer {
     width: 90%;
-    padding: 10vw 0vw;
+    padding: 15vw 0vw;
     display: flex;
     grid-row-gap: 10px;
     flex-direction: column;
