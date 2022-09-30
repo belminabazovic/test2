@@ -12,7 +12,7 @@ body {
     width: 100vw;
     background-color: #020202;
     overflow-x: hidden;
-    height: 100vh;
+    height: calc(100vh - 65px);
     font-family: 'Manrope', 'sans-serif';
 }
 
